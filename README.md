@@ -24,7 +24,7 @@ For more information about this hook you can check this great [tutorial](https:/
 
 # UseReducer Hook
 
-comming soon...
+This hook is used when managing the state of some variables in our application become cumbersome, great if you need a more manageable tool for handling different states of your application.
 
 # Acknowledgements
 
